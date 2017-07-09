@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#FFFFFF</color>
+
+    <!-- Slider Dots -->
+    <color name="dot_slider_inactive">#1E1D20</color>
+    <color name="dot_slider_active">#FFFFFF</color>
+
+    <!-- Slider Background Images -->
+    <color name="slider_1_background">#88C4F8</color>
+    <color name="slider_2_background">#E897F8</color>
+    <color name="slider_3_background">#F8736F</color>
+</resources>
